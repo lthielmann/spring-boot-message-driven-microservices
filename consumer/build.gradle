@@ -1,0 +1,5 @@
+group 'de.lth.examples.rabbitmq'
+
+dependencies {
+
+}

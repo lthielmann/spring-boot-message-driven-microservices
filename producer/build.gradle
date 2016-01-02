@@ -1,0 +1,5 @@
+group 'de.lth.examples.rabbitmq'
+
+dependencies {
+    compile group: "org.springframework.boot", name: "spring-boot-starter-jersey"
+}
